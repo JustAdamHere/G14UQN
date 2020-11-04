@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"poster",
+				"posteriorVari"
+			],
+			[
+				"compute",
+				"compute_posteriorMu"
+			],
+			[
+				"co",
+				"compute_posteriork"
+			],
+			[
 				"simu",
 				"simulated_data"
 			],
@@ -24,20 +36,12 @@
 				"compute_K"
 			],
 			[
-				"poster",
-				"posteriorMean"
-			],
-			[
 				"compu",
 				"compute_posteriork"
 			],
 			[
 				"psoter",
 				"posteriorMean"
-			],
-			[
-				"compute",
-				"compute_posteriorSigma"
 			],
 			[
 				"compute_",
@@ -92,19 +96,10 @@
 	"buffers":
 	[
 		{
-			"file": "4 Gaussian Process Regression/e1.py",
+			"file": "4 Gaussian Process Regression/e3.py",
 			"settings":
 			{
-				"buffer_size": 4941,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "3 Guassian Processes and Fields/e2.py",
-			"settings":
-			{
-				"buffer_size": 1274,
+				"buffer_size": 984,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -119,10 +114,19 @@
 			}
 		},
 		{
-			"file": "4 Gaussian Process Regression/e3.py",
+			"file": "4 Gaussian Process Regression/e1.py",
 			"settings":
 			{
-				"buffer_size": 984,
+				"buffer_size": 4941,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "CT1 Lotka-Volterra/ct1.py",
+			"settings":
+			{
+				"buffer_size": 5211,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -251,13 +255,19 @@
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/1 Statistical Inference",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/2 Nonlinear Regression",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields",
-		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression"
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression",
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/CT1 Lotka-Volterra"
 	],
 	"file_history":
 	[
+		"/C/Users/adam/Downloads/ct1 (1).py",
+		"/C/Users/adam/Downloads/ct1.py",
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression/e3.py",
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression/e2.py",
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression/e1.py",
+		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields/e2.py",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/4 Gaussian Process Regression/test.py",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields/e1.py",
-		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields/e2.py",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields/example1.py",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/2 Nonlinear Regression/e2.py",
 		"/C/Users/adam/Blakey Cloud/Documents/Education/University of Nottingham/PhD/G14UQN/3 Guassian Processes and Fields/e1_1.py",
@@ -377,16 +387,11 @@
 		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/kanderson - Copy/htdocs/ka/login.php",
 		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/kanderson - Copy/htdocs/ka/password.php",
 		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/igs/htdocs/index.php",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/igs/htdocs/ka/admain.php",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/igs/htdocs/ka/podcast-add.php",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/igs/htdocs/ka/podcast.php",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/kanderson/htdocs/articles.php",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/kanderson/htdocs/ka/lpane.inc",
-		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/kanderson/htdocs/ka/bpane.inc"
+		"/C/Users/adam/Blakey Cloud/Documents/Keiron's Website/igs/htdocs/ka/admain.php"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -400,6 +405,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"[7.5]",
+			"2.576",
+			"new_x",
+			"=['",
+			"'",
+			"pm",
 			"maximiser",
 			"###########\n",
 			"1",
@@ -441,96 +452,11 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "4 Gaussian Process Regression/e1.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4941,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1575,
-								1575
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 720.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "3 Guassian Processes and Fields/e2.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1274,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1129,
-								1129
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 630.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "4 Gaussian Process Regression/e2.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2821,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1904,
-								1904
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1260.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "4 Gaussian Process Regression/e3.py",
 					"semi_transient": false,
 					"settings":
@@ -542,13 +468,14 @@
 						"selection":
 						[
 							[
-								251,
-								251
+								503,
+								503
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -556,13 +483,99 @@
 					},
 					"stack_index": 3,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "4 Gaussian Process Regression/e2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1598,
+								1598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "4 Gaussian Process Regression/e1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3510,
+								3510
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1053.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "CT1 Lotka-Volterra/ct1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5211,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4123,
+								4123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1581.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -603,7 +616,7 @@
 	"project": "G14UQN.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
